@@ -1,0 +1,3 @@
+[submodule "rtl/bus"]
+	path = rtl/bus
+	url = https://github.com/DatNguyen97-VN/apb_timer
